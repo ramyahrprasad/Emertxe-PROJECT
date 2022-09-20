@@ -1,0 +1,61 @@
+1.Which command is used to create a directory?
+a)ls
+b)touch
+c)mkdir
+d)pwd
+
+2.Which command is used to list the contents of a directory?
+a)ls
+b)touch
+c)mkdir
+d)pwd
+
+3.Which command is used to create a file?
+a)ls
+b)touch
+c)mkdir
+d)pwd
+
+4.Which command is used to print the name  of current working directory?
+a)ls
+b)touch
+c)mkdir
+d)pwd
+
+5.Which command is used to change the path of the directory?
+a)ls
+b)cd
+c)mkdir
+d)pwd
+
+6.Which command is used to create a directory?
+a)ls
+b)touch
+c)mkdir
+d)pwd
+
+7..Which command is used to end the terminal?
+a)exit
+b)touch
+c)mkdir
+d)pwd
+
+8.Which command is used to display a date?
+a)date
+b)touch
+c)mkdir
+d)pwd
+
+9.Which command is used to display a calender?
+a)date
+b)cal
+c)touch
+d)pwd
+
+10.Which is the shortcut key is used to exit from the terminal ?
+a)ctrl -D
+b)ctrl -S
+c)ctrl g
+d)ctrl a
+
+
